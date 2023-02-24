@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1677228218 source:c:\users\krzysiek\documents\homebudget\homebudget.cpp
+	"HomeBudget.h"
+
+1677229595 c:\users\krzysiek\documents\homebudget\homebudget.h
+	<iostream>
+	"UserManager.h"
+	"FinancialManager.h"
+	"AuxiliaryMethods.h"
+
+1677228626 source:c:\users\krzysiek\documents\homebudget\main.cpp
+	<iostream>
+	"HomeBudget.h"
+	"FinancialManager.h"
+
+1677171252 source:c:\users\krzysiek\documents\homebudget\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1677229744 c:\users\krzysiek\documents\homebudget\filewithexpenses.h
+	<iostream>
+	<vector>
+	"Expense.h"
+	"Markup.h"
+	"AuxiliaryMethods.h"
+
+1677171178 source:c:\users\krzysiek\documents\homebudget\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1677229713 c:\users\krzysiek\documents\homebudget\filewithincomes.h
+	<iostream>
+	<vector>
+	"Income.h"
+	"Markup.h"
+	"AuxiliaryMethods.h"
+
+1677225892 source:c:\users\krzysiek\documents\homebudget\financialmanager.cpp
+	"FinancialManager.h"
+
+1677229744 c:\users\krzysiek\documents\homebudget\financialmanager.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<string>
+	"Income.h"
+	"Expense.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+
+1677153564 source:c:\users\krzysiek\documents\homebudget\expense.cpp
+	"Expense.h"
+
+1677153564 c:\users\krzysiek\documents\homebudget\expense.h
+	<iostream>
+
+1677154042 source:c:\users\krzysiek\documents\homebudget\income.cpp
+	"Income.h"
+
+1677154025 c:\users\krzysiek\documents\homebudget\income.h
+	<iostream>
+
+1677167310 source:c:\users\krzysiek\documents\homebudget\auxiliarymethods.cpp
+	"AuxiliaryMethods.h"
+	<sstream>
+	<algorithm>
+	<ctime>
+	<string>
+	<stdlib.h>
+	<string.h>
+
+1677167326 c:\users\krzysiek\documents\homebudget\auxiliarymethods.h
+	<iostream>
+
+1677170988 source:c:\users\krzysiek\documents\homebudget\usermanager.cpp
+	"UserManager.h"
+
+1677229744 c:\users\krzysiek\documents\homebudget\usermanager.h
+	<iostream>
+	<vector>
+	"User.h"
+	"FileWithUsers.h"
+
+1676562964 c:\users\krzysiek\documents\homebudget\user.h
+	<iostream>
+
+1677227726 source:c:\users\krzysiek\documents\homebudget\filewithusers.cpp
+	"FileWithUsers.h"
+
+1677228893 c:\users\krzysiek\documents\homebudget\filewithusers.h
+	<iostream>
+	<vector>
+	"User.h"
+	"Markup.h"
+	"AuxiliaryMethods.h"
+
+1676562964 source:c:\users\krzysiek\documents\homebudget\user.cpp
+	"User.h"
+
+1303063612 c:\users\krzysiek\documents\homebudget\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1303063612 source:c:\users\krzysiek\documents\homebudget\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
